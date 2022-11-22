@@ -10,7 +10,7 @@
 - 🔭 Look at my repositories, the most interesting things are not public.👀
 - 🔄 I’m currently learning DevOps 🤣
 - 🥅 2023 Goals: render the Solution Architect of AWS
-- ⚡⚡ Fun fact: I love cats and make trekking
+- ⚡ Fun fact: I love cats and make trekking
 
 ### Connect with me:
 

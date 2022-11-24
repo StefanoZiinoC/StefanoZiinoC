@@ -1,6 +1,6 @@
 # Hi there, I'm Stefano Ziino Colanino - aka Tefa 👋 
 
-- Currently I work as a fullstack developer from CDE. 
+- Currently I work as a fullstack developer for CDE. 
 - Work with angular, nodejs, mongoDb and mysql. 
 - Developing a web application to automate the selection of employees.
 - I'm an active person and eager to learn.
@@ -9,7 +9,7 @@
 
 - 🔭 Look at my repositories, the most interesting things are not public.👀
 - 🔄 Studying to become a DevOps engineer
-- 🥅 2023 Goals: pass the Solutions Architect certification exam.
+- 🥅 2023 Goals: Become AWS solution architect certified
 - ⚡ Fun fact: I love cats and trekking
 
 ### Connect with me:

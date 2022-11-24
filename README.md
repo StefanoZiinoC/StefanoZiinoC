@@ -3,7 +3,7 @@
 - Currently I work as a fullstack developer from CDE. 
 - We work with angular, nodejs, mongoDb and mysql. 
 - Developing a web application to automate the selection of employees.
-- I consider myself an active person and eager to learn.
+- I'm an active person and eager to learn.
 
 ## I'm a young Dev with interest in the cloud and security!!
 

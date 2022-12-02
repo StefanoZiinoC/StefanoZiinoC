@@ -1,6 +1,6 @@
 # Hi there, I'm Stefano Ziino Colanino - aka Tefa 👋 
 
-- Currently I work as a fullstack developer for CDE. 
+- Currently I'm freelancer as a fullstack developer.
 - Work with angular, nodejs, mongoDb and mysql. 
 - Developing a web application to automate the selection of employees.
 - I'm an active person and eager to learn.

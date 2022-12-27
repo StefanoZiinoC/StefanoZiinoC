@@ -8,7 +8,7 @@
 ## I'm a young Dev with interest in the cloud and security!!
 
 - 🔭 Look at my repositories, the most interesting things are not public.👀
-- 🔄 Studying to become a DevOps engineer
+- 🔄 Studying to become a DevOps
 - 🥅 2023 Goals: Become AWS solution architect certified
 - ⚡ Fun fact: I love cats and trekking
 

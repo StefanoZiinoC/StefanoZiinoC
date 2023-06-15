@@ -1,12 +1,11 @@
-    
-🧑‍💻  DevOps Engineer at Craftech
-☁️ Certified AWS Solution Architect Associate
-🚀 Specialized in cloud infrastructure and custom solutions
-🛠️ Proficient in Terraform, Kubernetes, Docker, and cloud infrastructure management
-👨‍💻 Fullstack developer with experience in ReactJs/AngularJs, Node.js, MongoDB, and MySQL
-🌐 2 years ago I was developing (SAS): a web application for automating employee selection for (CDE)
-🌱 Always eager to learn and stay up-to-date with the latest technologies and trends
- 😺 Fun fact: I love cats and enjoy trekking
+    🧑‍💻 DevOps Engineer at Craftech
+    ☁️ Certified AWS Solution Architect Associate
+    🚀 Specialized in cloud infrastructure and custom solutions
+    🛠️ Proficient in Terraform, Kubernetes, Docker, and cloud infrastructure management
+    👨‍💻 Fullstack developer with experience in Angular, Node.js, MongoDB, and MySQL
+    🌐 Currently working on developing web applications for automating employee selection
+    🌱 Always eager to learn and stay up-to-date with the latest technologies and trends
+    😺 Fun fact: I love cats and enjoy trekking
 
 Connect with me:
 
@@ -26,4 +25,4 @@ Languages and Tools:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/331370/docker.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" style="padding-right:10px;" />

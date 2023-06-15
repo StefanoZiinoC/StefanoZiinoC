@@ -1,11 +1,12 @@
-    🧑‍💻 DevOps Engineer at Craftech
-    ☁️ Certified AWS Solution Architect Associate
-    🚀 Specialized in cloud infrastructure and custom solutions
-    🛠️ Proficient in Terraform, Kubernetes, Docker, and cloud infrastructure management
-    👨‍💻 Fullstack developer with experience in ReactJs/AngularJs, Node.js, MongoDB, and MySQL
-    🌐 2 years ago I was developing (SAS): a web application for automating employee selection for (CDE)
-    🌱 Always eager to learn and stay up-to-date with the latest technologies and trends
-    😺 Fun fact: I love cats and enjoy trekking
+    
+🧑‍💻  DevOps Engineer at Craftech
+☁️ Certified AWS Solution Architect Associate
+🚀 Specialized in cloud infrastructure and custom solutions
+🛠️ Proficient in Terraform, Kubernetes, Docker, and cloud infrastructure management
+👨‍💻 Fullstack developer with experience in ReactJs/AngularJs, Node.js, MongoDB, and MySQL
+🌐 2 years ago I was developing (SAS): a web application for automating employee selection for (CDE)
+🌱 Always eager to learn and stay up-to-date with the latest technologies and trends
+ 😺 Fun fact: I love cats and enjoy trekking
 
 Connect with me:
 

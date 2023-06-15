@@ -23,9 +23,13 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l791ySSDFwSHTYVjI0BMuuyqlFmiMutGcvcYcA%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1&ipt=8de4b523c634449c2d1d5ffc84fd8dd39a24b170f9fb63166ea49dc55cba9eeb&ipo=images" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pritunl" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F542613925288620034%2Fa8abbZfm_400x400.png&f=1&nofb=1&ipt=505e061f823b38f1ecf67ed9e347e040a57c08c2b56bac49a3bffaa4459efb20&ipo=images" style="padding-right:10px;" />
 <img align="left" alt="Leapp" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.leapp.cloud%2Fassets%2Fimg%2FLeapp_Icon.png&f=1&nofb=1&ipt=5c6c28956b70f899857a3e6b4705a227c4cd10c47205acb42187eb6b92b632f4&ipo=images" style="padding-right:10px;" />
+
+## webApp Developer Tools
+
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" style="padding-right:10px;" />

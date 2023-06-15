@@ -24,7 +24,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pritunl" width="26px" src="https://avatars.githubusercontent.com/u/26338958?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Pritunl" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F542613925288620034%2Fa8abbZfm_400x400.png&f=1&nofb=1&ipt=505e061f823b38f1ecf67ed9e347e040a57c08c2b56bac49a3bffaa4459efb20&ipo=images" style="padding-right:10px;" />
 <img align="left" alt="Leapp" width="26px" src="https://pbs.twimg.com/profile_images/720929620042682624/vDv0cJ1B.jpg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />

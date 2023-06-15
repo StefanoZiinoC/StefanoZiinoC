@@ -5,7 +5,7 @@
     👨‍💻 Fullstack developer with experience in ReactJs, AngularJs, NodeJs (NestJs), NoSQL and MySQL
     🌐 Currently working on developing web applications for automating employee selection
     🌱 Always eager to learn and stay up-to-date with the latest technologies and trends
-    😺 Fun fact: I love cats.
+    😺 Fun fact: I love cats
 
 ## Connect with me:
 

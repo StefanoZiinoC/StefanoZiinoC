@@ -3,7 +3,7 @@
     🚀 Specialized in cloud infrastructure and custom solutions
     🛠️ Proficient in Terraform, Kubernetes, Docker, and cloud infrastructure management
     👨‍💻 Fullstack developer with experience in ReactJs, AngularJs, NodeJs (NestJs), NoSQL and MySQL
-    🌐 2 years ago I was developing web applications for automating employee selection for Enterprise of RRHH (SAS)
+    🌐 1 year ago I was developing web app for automating employee selection for enterprise of RRHH (SAS)
     🌱 Always eager to learn and stay up-to-date with the latest technologies and trends
     😺 Fun fact: I love cats
 

@@ -13,7 +13,7 @@
     📧 Email: sziinocolanino@gmail.com
     💼 LinkedIn: Stefano Ziino Colanino
 
-## Languages && Tools:
+## DevOps && WebApp Tools:
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/331370/docker.svg" style="padding-right:10px;" />
@@ -27,10 +27,6 @@
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pritunl" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F542613925288620034%2Fa8abbZfm_400x400.png&f=1&nofb=1&ipt=505e061f823b38f1ecf67ed9e347e040a57c08c2b56bac49a3bffaa4459efb20&ipo=images" style="padding-right:10px;" />
 <img align="left" alt="Leapp" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.leapp.cloud%2Fassets%2Fimg%2FLeapp_Icon.png&f=1&nofb=1&ipt=5c6c28956b70f899857a3e6b4705a227c4cd10c47205acb42187eb6b92b632f4&ipo=images" style="padding-right:10px;" />
-
-
-
-## webApp Developer Tools:
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />

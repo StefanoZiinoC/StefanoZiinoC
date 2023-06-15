@@ -13,7 +13,7 @@
     📧 Email: sziinocolanino@gmail.com
     💼 LinkedIn: Stefano Ziino Colanino
 
-## Languages and Tools:
+## Languages && Tools:
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/331370/docker.svg" style="padding-right:10px;" />
